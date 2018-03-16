@@ -1,2 +1,2 @@
-# dsp_MATLAB_examples
+# dsp_MATLAB_Orik
 Here are the examples of MATLAB operations of DSP subject. Welcome!
